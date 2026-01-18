@@ -1,0 +1,13 @@
+Revert "Add square function"
+
+This reverts commit ab9b5daed671455e4ecc90a3f07c5c701495cd3e.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch premium
+# Your branch is up to date with 'origin/premium'.
+#
+# Changes to be committed:
+#	modified:   calculator.py
+#
